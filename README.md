@@ -84,10 +84,12 @@ The Streamlit app provides an interactive interface to visualize the bus data. U
 
 ## Screenshots
 
-![Screenshot 2024-08-21 173237](https://github.com/user-attachments/assets/69bdc100-181f-4ca5-9c55-f41ec8cf5d82)
+
+![Screenshot 2024-08-28 164547](https://github.com/user-attachments/assets/aa5d1541-6157-406b-bd69-f0b576ebe2b9)
 
 
-![Screenshot 2024-08-21 173328](https://github.com/user-attachments/assets/32ee002a-b853-47c8-bbff-9f8230b79ff9)
+
+![Screenshot 2024-08-28 164824](https://github.com/user-attachments/assets/dbd4aee4-efd0-4db1-b0ec-94b744e095d4)
 
 
 ## Future Improvements
